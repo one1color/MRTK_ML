@@ -1,0 +1,304 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "/Users/koki/MagicLeap/mlsdk/v0.23.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/koki/Downloads/privatekey/xibit1.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "411d2e621e91e62833e90422caa46a021fedc8e9",
+   "xfrm_path": "/Users/koki/Xibit/MRTK_Sample/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.mrtktest-6f6b915a4a65367f/libc++_shared.so-471f94b4fbfe7f67",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "390e86f579dbb47b002fe2edbae8a39a940a6a3c",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 5036844,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "c600613f267200affb61f66ef1aa2ba786bbe1d9",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 86658808,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/koki/Downloads/privatekey/xibit1.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "5d56d87dc9da3ae3dda3846a3765957cc81148e6",
+   "xfrm_path": "/Users/koki/Xibit/MRTK_Sample/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.mrtktest-6f6b915a4a65367f/libil2cpp.so-cc3c5af843885622",
+   "xfrm_size": 86659566
+  },
+  {
+   "compression": 8,
+   "hash": "eb463901d6f69c739181911a175309562ca388ce",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 286544,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/koki/Downloads/privatekey/xibit1.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "4780d13ff6fe3396a952eb4f5d4bfeb9bca8e460",
+   "xfrm_path": "/Users/koki/Xibit/MRTK_Sample/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.mrtktest-6f6b915a4a65367f/AudioPluginMSASpatializer.so-f5746664a33e536e",
+   "xfrm_size": 287302
+  },
+  {
+   "compression": 8,
+   "hash": "7710f92a8fbf2219eb9567197fec7e991778c70d",
+   "pkgpath": "bin/LuminMediaPlayer.dll",
+   "size": 68608,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e5f28f2367fb041ad28fe868e67ab428420d5900",
+   "pkgpath": "bin/LuminUnity.dll",
+   "size": 328192,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/Plugins/LuminUnity.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "51f119b9d8bb1803df4f0e0ead2656f6fbba374b",
+   "pkgpath": "bin/MSA.Runtime.dll",
+   "size": 22528,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "a71acc50817a0929bccc93cbe7619d57d25d1b17",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 3077192,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/koki/Downloads/privatekey/xibit1.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "0f90a2ce3ce29c42d6b3b98c32fbf2ac938ea139",
+   "xfrm_path": "/Users/koki/Xibit/MRTK_Sample/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.mrtktest-6f6b915a4a65367f/UnityMagicLeap.so-f5746664a33e536e",
+   "xfrm_size": 3077950
+  },
+  {
+   "compression": 8,
+   "hash": "a86c27fcbaa2b90e59a995a472f69b8736524c2e",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/koki/Downloads/privatekey/xibit1.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "4d5162c0710e3233183b7096449537b5653d489b",
+   "xfrm_path": "/Users/koki/Xibit/MRTK_Sample/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.mrtktest-6f6b915a4a65367f/libml_camera_plugin.so-f5746664a33e536e",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "1d1daf0c329d1182bee0bcc2986e0368b2227511",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 72064,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/koki/Downloads/privatekey/xibit1.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "71951acd2f095c4c52b58fb72bac329e01d5f13d",
+   "xfrm_path": "/Users/koki/Xibit/MRTK_Sample/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.mrtktest-6f6b915a4a65367f/libml_mediaplayer_plugin.so-f5746664a33e536e",
+   "xfrm_size": 72822
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "fa10859a933989c5961257c02d9f4fcf042044f1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3689324,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "a0249d4c777f4d50711202da2ba7e27034a1b85a",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 942768,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "778891100a8030ad6096db64784c6e5d67c28378",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 417,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "f226dfc0f1097b18c77eb2198b6257be5b02a613",
+   "pkgpath": "Data/boot.config",
+   "size": 123,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "8837e5f63884e4397ee81f53a73aa957b7f23fce",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 106936,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "4933dc2213a8651d977d153f15c48068a45ee951",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 226968,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "9f44a7507e510e932280b91d0bd98b2d644b82d0",
+   "pkgpath": "Data/level0",
+   "size": 404880,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "ade28915d702b19d1dbdda338f7e33cc8fd9a62c",
+   "pkgpath": "Data/resources.assets",
+   "size": 2034976,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "8e10e947b08a9696329bdad8fef52c4ff544b694",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 2964480,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "72df8187e8b57e64fb93926431a0053987da4917",
+   "pkgpath": "Data/resources.resource",
+   "size": 5875136,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/resources.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "a6277e97916ef8ef72af1c7ab6187442735414b2",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 5160556,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "f4afdd4b57da8fb6b84ab4dacf080750ccb1711e",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 7154972,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "bd2c200bd83aec3cf0920aa4da10c2fe5e1726b6",
+   "pkgpath": "Data/sharedassets0.resource",
+   "size": 22848,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Data/sharedassets0.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "723943fd2a5e70e07400a88ceb9e7ec464cc26cb",
+   "pkgpath": "bin/Player.elf",
+   "size": 20747736,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/koki/Downloads/privatekey/xibit1.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "43e05c4607df031faa6c8ae8f49519cbfb853700",
+   "xfrm_path": "/Users/koki/Xibit/MRTK_Sample/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.mrtktest-6f6b915a4a65367f/Player.elf-8fa66bcceaf826b5",
+   "xfrm_size": 20748494
+  },
+  {
+   "compression": 8,
+   "hash": "72da877fd848f79bb319d9275ad60e5b699f991a",
+   "pkgpath": "manifest.xml",
+   "size": 673,
+   "src": "/Users/koki/Xibit/MRTK_Sample/Temp/StagingArea/manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "ccd8bd9c9b2c6036ed12696506b834ef0e394259",
+     "developer_id": "c4f057c3-3029-48f1-8540-7a91c56b6def"
+    }
+   },
+   "xfrm_hash": "e18b10630258eb6843c8f7aef5bf2f216a2a135a",
+   "xfrm_path": "/Users/koki/Xibit/MRTK_Sample/.out/.cache/debug_lumin_clang-3.8_aarch64/com.test.mrtktest-6f6b915a4a65367f/manifest.xml-8fa66bcceaf826b5",
+   "xfrm_size": 686
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "/Users/koki/Downloads/privatekey/xibit1.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "/Users/koki/Downloads/privatekey/xibit1.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
